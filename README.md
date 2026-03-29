@@ -14,6 +14,7 @@ Features:
 - Prevent negative stock
 - Automated low stock alerts (email)
 - Dashboard with stock insights
+- A working Outlook used to generate the output which is msccs2428@rajagiri.edu
 
 Key Logic:
 - Alert triggers when OnHand <= ReorderPoint
